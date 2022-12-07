@@ -10,7 +10,7 @@ function getCookies(){
       output+=cookies[i].name + " "
     }
     document.body.innerHTML = output;
-  },1000);
+  },1000); 
 };
 
   // Progression 2: using setTimeout() 
